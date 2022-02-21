@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
         InlineKeyboardButton('ɢʀᴏᴜᴘ', url ='https://t.me/AM_chats_2_0')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/cinmeamax')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
